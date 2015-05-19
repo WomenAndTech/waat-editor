@@ -1,4 +1,4 @@
-<nav id="sections_menu" class="slide">
+<nav id="sections_menu" class="open">
   <ul>
     <li>
       Headers

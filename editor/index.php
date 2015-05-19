@@ -1,6 +1,6 @@
 <?php include('header.php'); ?>
 
-<div id="wrapper" class="slide">
+<div id="wrapper" class="open">
   <?php include('top_menu.php'); ?>
   <!-- <ul id="canvas">
     <li>Test1</li>
@@ -21,5 +21,11 @@
 </div>
 
 <?php include('menu.php'); ?>
+
+<div id="destroyObject">
+  <span>
+    X
+  </span>
+</div>
 
 <?php include('footer.php'); ?>
